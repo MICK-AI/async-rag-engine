@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+redis
+rq
+python-dotenv
+openai
+langchain
+langchain-qdrant
+langchain-huggingface
+sentence-transformers
+qdrant-client
